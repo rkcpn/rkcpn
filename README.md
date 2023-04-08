@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+- 🔭 I’m currently working on Ferdicute
+- 🌱 I’m currently learning Linux kernel dev
 
 <!--
 **rkcpn/rkcpn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
